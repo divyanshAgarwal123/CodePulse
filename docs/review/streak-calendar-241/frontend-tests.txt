@@ -1,0 +1,12 @@
+
+> githubabhi@0.1.0 test
+> vitest run
+
+
+ RUN  v4.1.11 /private/tmp/nsoc-241-current
+
+
+ Test Files  126 passed (126)
+      Tests  634 passed (634)
+   Start at  15:09:16
+   Duration  7.76s (transform 4.39s, setup 8.62s, import 23.43s, tests 17.95s, environment 32.18s)

@@ -1,0 +1,29 @@
+{
+  "fixture": "real calendar component with simulated profile data",
+  "reports": [
+    {
+      "width": 1360,
+      "activeLabel": "2026-11-03: 2 contributions",
+      "calendarDays": [
+        30,
+        31
+      ],
+      "includesCurrentAndBest": true,
+      "activationDisabled": true,
+      "focusNavigation": true,
+      "pageErrors": []
+    },
+    {
+      "width": 390,
+      "activeLabel": "2026-11-03: 2 contributions",
+      "calendarDays": [
+        30,
+        31
+      ],
+      "includesCurrentAndBest": true,
+      "activationDisabled": true,
+      "focusNavigation": true,
+      "pageErrors": []
+    }
+  ]
+}
